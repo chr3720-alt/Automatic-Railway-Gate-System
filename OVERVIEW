@@ -1,0 +1,18 @@
+# Automatic Railway Gate System 🚦🚆
+
+This project is a Python-based simulation of an automated railway gate system.
+
+The system detects an approaching train and automatically controls the railway gate to improve crossing safety.
+
+## Features
+
+- Train detection simulation
+- Automatic gate closing
+- Gate reopening after train passes
+- GUI interface using Tkinter
+- Simple railway crossing safety model
+
+## Technologies
+
+- Python
+- Tkinter GUI
