@@ -1,0 +1,36 @@
+## 📋 Requirements
+
+### 💻 Software Requirements
+- Python 3.x  
+- IDE / Code Editor (VS Code / PyCharm / Jupyter Notebook)  
+
+---
+
+### 📚 Python Libraries
+- numpy (for calculations)  
+- matplotlib (for visualization)  
+- time (for simulation delays)  
+- tkinter / pygame (optional, for GUI simulation)  
+
+---
+
+### ⚙️ System Requirements
+- Laptop / PC with Python installed  
+- Basic understanding of Python programming  
+- Internet (optional, for installing libraries)  
+
+---
+
+### 🧠 Simulation Requirements
+- Logic for train detection (distance/time-based simulation)  
+- Gate control logic (open/close mechanism)  
+- Event handling for train approach and departure  
+- Visualization or GUI (optional for better demonstration)  
+
+---
+
+### 🌐 Optional Enhancements
+- Real-time visualization dashboard  
+- Sensor-based integration (IoT version)  
+- Machine learning for train prediction  
+- Integration with hardware (ESP32 / Arduino)  
